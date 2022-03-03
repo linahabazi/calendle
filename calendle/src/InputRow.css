@@ -1,0 +1,15 @@
+.inputsContainer input {
+  height: 50px;
+  width: 40px;
+}
+
+.inputsContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.dayInputs, .monthInputs, .yearInputs {
+  display: flex;
+  flex-direction: row;
+}
